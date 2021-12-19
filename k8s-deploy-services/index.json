@@ -6,7 +6,7 @@
     "details": {
       "steps": [
         {
-          "title": "Step 1",
+          "title": "Agenda",
           "text": "02.kubectl.md",
           "code": "02.kubectl.sh"
         }
