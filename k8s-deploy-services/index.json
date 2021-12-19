@@ -12,8 +12,16 @@
         },
         {
             "title": "Agenda",
-            "text": "02.nginx.md"
-          }
+            "text": "03.nginx.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "04.index.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "05.folder.md"
+        }
       ],
       "intro": {
         "text": "01.start.md"
