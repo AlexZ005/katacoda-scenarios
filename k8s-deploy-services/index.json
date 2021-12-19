@@ -50,6 +50,6 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "minikube-running:1.21"
+      "imageid": "minikube-running:1.20"
     }
   }
