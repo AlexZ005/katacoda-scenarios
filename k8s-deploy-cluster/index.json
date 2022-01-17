@@ -1,0 +1,47 @@
+{
+    "title": "Creating Services Using Kubernetes",
+    "description": "Scenario for configuring K8s cluser.",
+    "difficulty": "Beginner",
+    "time": "10-15 minutes",
+    "details": {
+      "steps": [
+        {
+          "title": "Agenda",
+          "text": "02.kubectl.md",
+          "code": "02.kubectl.sh"
+        },
+        {
+            "title": "Agenda",
+            "text": "03.nginx.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "04.index.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "05.folder.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "06.mounting.md"
+        },
+        {
+            "title": "Agenda",
+            "text": "07.pv.md"
+        }
+      ],
+      "intro": {
+        "text": "01.start.md"
+      },
+      "finish": {
+        "text": "10.finish.md"
+      }
+    },
+    "environment": {
+      "uilayout": "terminal"
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
