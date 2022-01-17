@@ -42,6 +42,6 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "ubuntu:1804"
+      "imageid": "kotlin:1.3.61"
     }
   }
