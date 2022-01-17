@@ -1,5 +1,5 @@
 {
-    "title": "Creating Services Using Kubernetes",
+    "title": "Creating Cluster Using kubeadm",
     "description": "Scenario for configuring K8s cluser.",
     "difficulty": "Beginner",
     "time": "10-15 minutes",
