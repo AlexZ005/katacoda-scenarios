@@ -42,6 +42,6 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "jenkins"
+      "imageid": "openjdk:15"
     }
   }
