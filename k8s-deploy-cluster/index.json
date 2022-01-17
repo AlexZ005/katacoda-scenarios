@@ -39,9 +39,9 @@
       }
     },
     "environment": {
-      "uilayout": "terminal"
+      "uilayout": "terminal-terminal"
     },
     "backend": {
-      "imageid": "python:3.8"
+      "imageid": "kubernetes-cluster:1.18"
     }
   }
